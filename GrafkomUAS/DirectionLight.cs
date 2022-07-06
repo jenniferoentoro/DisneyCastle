@@ -18,7 +18,7 @@ namespace DisneyCastle
             this.direction = direction;
         }
 
-        public Vector3 Direction { get => direction; set => direction = value; }
+        public Vector3 Direction { get => direction; set => direction = value; } 
     }
 }
 
